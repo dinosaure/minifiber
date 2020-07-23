@@ -1,0 +1,3 @@
+(executable
+ (name digest)
+ (libraries rresult digestif fiber))
